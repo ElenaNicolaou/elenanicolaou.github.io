@@ -2,7 +2,7 @@
 My website - test
 
 Main link:
-[http://www.elenanicolaou.com](ttp://www.elenanicolaou.com)
+[http://www.elenanicolaou.com/](ttp://www.elenanicolaou.com/)
 
 Original:
 [http://elenanicolaou.github.io/](http://elenanicolaou.github.io/)
